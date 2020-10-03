@@ -16,7 +16,7 @@
 title: Fenil Mehta
 email: fenilgmehta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  MTech at IIT-B.
+  MTech at IIT-B
 twitter_username: username
 github_username: fenilgmehta
 minimal_mistakes_skin: dark
@@ -58,20 +58,26 @@ plugins:
 author:
   name   : "Fenil Mehta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MTech at IIT-B."
+  bio    : "MTech at IIT-B"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fenilgmehta.github.io"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "IITB - Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.cse.iitb.ac.in/~fenilgmehta/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:fenilgmehta@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fenilgmehta"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fenilgmehta"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
 
 footer:
   links:
