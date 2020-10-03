@@ -95,14 +95,14 @@ Following are the resources I used:
     * Any theory or question which I find important were written on page/notebook.
 
 * Here is the soft copy of my preparations:
-    * [Study Table Image](assets/GATE/IMG_20200613_073153.jpg) <!-- ![Study Table](assets/GATE/IMG_20200613_073153.jpg "Study Table") -->
-    * [Study Log PDF](assets/GATE/GATE%202%20Months%20Study%20Log.pdf) which I used to write everyday to know what to revise the next day and during the weekends.
-    * [Summary of what chapters are complete](assets/GATE/IMG_20200622_131425.jpg)
-    * [Bookmarks](assets/GATE/IMG_20200628_054103.jpg)
-    * [GATE Notes](assets/GATE/GATE%20Notes%20-%20almost%20All.pdf)
-    * [Compiler Notes](assets/GATE/GATE%20Compiler%20Notes.pdf) - I made them after GATE but felt that they would have been very useful had they been written before the exams. [This link](https://www.youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw) for referred for the content.
+    * [Study Table Image](/assets/GATE/IMG_20200613_073153.jpg) <!-- ![Study Table](/assets/GATE/IMG_20200613_073153.jpg "Study Table") -->
+    * [Study Log PDF](/assets/GATE/GATE%202%20Months%20Study%20Log.pdf) which I used to write everyday to know what to revise the next day and during the weekends.
+    * [Summary of what chapters are complete](/assets/GATE/IMG_20200622_131425.jpg)
+    * [Bookmarks](/assets/GATE/IMG_20200628_054103.jpg)
+    * [GATE Notes](/assets/GATE/GATE%20Notes%20-%20almost%20All.pdf)
+    * [Compiler Notes](/assets/GATE/GATE%20Compiler%20Notes.pdf) - I made them after GATE but felt that they would have been very useful had they been written before the exams. [This link](https://www.youtube.com/playlist?list=PLYwpaL_SFmcC6FupM--SachxUTOiQ7XHw) for referred for the content.
     <!-- Add study hours table PDF -->
-    <!-- ![Study hours record](assets/GATE/IMG_) -->
+    <!-- ![Study hours record](/assets/GATE/IMG_) -->
 
 
 ### Books I read while preparing for GATE
