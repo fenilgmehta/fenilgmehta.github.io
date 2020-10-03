@@ -7,6 +7,8 @@ tags:
   - IIT
   - GATE
   - CS-IT
+toc: true
+toc_sticky: true
 ---
 
 <!-- # Crack GATE with 2 Months of Self-Study -->
